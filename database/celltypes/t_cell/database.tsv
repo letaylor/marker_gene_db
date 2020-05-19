@@ -1,0 +1,181 @@
+hgnc_symbol	grouping_id	study_id	description	ensembl_gene_id	ensembl_version	biopsy_tissue	biopsy_cell_selection
+BTLA	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000186265	99
+CD160	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000117281	99
+CD200	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000091972	99
+CD244	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000122223	99
+CD274	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000120217	99
+CEACAM1	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000079385	99
+CTLA4	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000163599	99
+GP49A	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891		99
+HAVCR2	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000135077	99
+KLRA3	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891		99
+KLRA7	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891		99
+KLRA9	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891		99
+KLRC1	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000134545	99
+KLRD1	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000134539	99
+LAG3	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000089692	99
+LAIR1	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000167613	99
+LILRB4	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000186818	99
+PDCD1	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000188389	99
+PDPN	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000162493	99
+PILRA	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000085514	99
+PROCR	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000101000	99
+PTGER4	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000171522	99
+SIRPB1	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000101307	99
+TIGIT	coinhibition_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000181847	99
+CD226	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000150637	99
+CD27	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000139193	99
+CD276	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000103855	99
+CD28	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000178562	99
+CD40LG	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000102245	99
+CD80	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000121594	99
+CD86	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000114013	99
+ICOS	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000163600	99
+TNFRSF18	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000186891	99
+TNFRSF4	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000186827	99
+TNFRSF9	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000049249	99
+TNFSF11	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000120659	99
+TNFSF14	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000125735	99
+TNFSF4	costimulation_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000117586	99
+GNLY	cytotoxicity_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000115523	99
+GZMB	cytotoxicity_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000100453	99
+GZMK	cytotoxicity_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000113088	99
+IFNG	cytotoxicity_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000111537	99
+NKG7	cytotoxicity_signature	SmillieCS-31348891	T cell signatures used in SmillieCS-31348891	ENSG00000105374	99
+AOAH	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000136250	99
+CCL3	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000277632	99
+CCL3L3	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000276085	99
+CCL4	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000275302	99
+CCL4L2	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000276070	99
+CCL5	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000271503	99
+CD160	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000117281	99
+CD8A	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000153563	99
+CD8B	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000172116	99
+CLIC3	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000169583	99
+CMC1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000187118	99
+CTSW	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000172543	99
+DHRS3	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000162496	99
+DTHD1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000197057	99
+EOMES	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000163508	99
+FCER1G	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000158869	99
+FGR	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000000938	99
+GFOD1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000145990	99
+GNLY	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000115523	99
+GZMA	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000145649	99
+GZMB	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000100453	99
+IFITM3	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000142089	99
+IL2RB	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000100385	99
+KLRC1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000134545	99
+KLRC2	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000205809	99
+KLRD1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000134539	99
+KLRF1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000150045	99
+MAPK1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000100030	99
+MATK	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000007264	99
+MCTP2	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000140563	99
+NKG7	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000105374	99
+PRF1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000180644	99
+PTGDR	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000168229	99
+XCL1	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000143184	99
+XCL2	CD8_cytotoxic	MartinJC-31474370	T cell module: CD8/cytotoxic	ENSG00000143185	99
+ASF1B	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000105011	99
+ASPM	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000066279	99
+AURKB	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000178999	99
+BIRC5	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000089685	99
+CCDC34	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000109881	99
+CCNA2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000145386	99
+CCNB1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000134057	99
+CCNB2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000157456	99
+CDC25B	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000101224	99
+CDCA5	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000146670	99
+CDK1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000170312	99
+CDKN3	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000100526	99
+CDT1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000167513	99
+CENPE	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000138778	99
+CENPF	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000117724	99
+CENPN	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000166451	99
+CENPU	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000151725	99
+CENPW	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000203760	99
+CKS1B	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000173207	99
+CLSPN	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000092853	99
+DHFR	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000228716	99
+DTYMK	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000168393	99
+EZH2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000106462	99
+GMNN	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000112312	99
+GTSE1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000075218	99
+H2AFX	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000188486	99
+HELLS	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000119969	99
+HMMR	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000072571	99
+KIAA0101	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000166803	99
+MAD2L1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000164109	99
+MCM7	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000166508	99
+MKI67	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000148773	99
+MXD3	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000213347	99
+NUF2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000143228	99
+NUSAP1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000137804	99
+PCNA	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000132646	99
+PRC1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000198901	99
+RRM2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000171848	99
+SGOL1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000129810	99
+SMC2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000136824	99
+STMN1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000117632	99
+TK1	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000167900	99
+TMEM106C	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000134291	99
+TOP2A	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000131747	99
+TPX2	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000088325	99
+TYMS	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000176890	99
+UBE2C	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000175063	99
+UBE2T	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000077152	99
+ZWINT	cell_cycling	MartinJC-31474370	T cell module: cell cycling	ENSG00000122952	99
+CCR7	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000126353	99
+LEF1	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000138795	99
+NOSIP	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000142546	99
+SC5D	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000109929	99
+SELL	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000188404	99
+SOX4	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000124766	99
+TOB1	central_memory	MartinJC-31474370	T cell module: naive/central memory (CM)	ENSG00000141232	99
+AC133644.2	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000273445	99
+BATF	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000156127	99
+CTLA4	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000163599	99
+FOXP3	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000049768	99
+ICA1	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000003147	99
+IKZF2	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000030419	99
+IL2RA	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000134460	99
+MAGEH1	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000187601	99
+RHBDD2	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000005486	99
+TBC1D4	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000136111	99
+TIGIT	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000181847	99
+TNFRSF18	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000186891	99
+TNFRSF1B	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000028137	99
+TNFRSF4	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000186827	99
+TNFRSF9	immunoregulation	MartinJC-31474370	T cell module: immunoregulation	ENSG00000049249	99
+AC092580.4	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000287119	99
+ANKRD28	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000206560	99
+ANXA1	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000135046	99
+ATF3	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000162772	99
+CD69	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000110848	99
+FOS	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000170345	99
+FOSB	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000125740	99
+GLIPR1	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000139278	99
+GPR171	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000174946	99
+GPR65	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000140030	99
+ID2	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000115738	99
+IFNGR1	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000027697	99
+IL18R1	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000115604	99
+IL7R	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000168685	99
+JAML	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000160593	99
+JUN	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000177606	99
+KLF6	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000067082	99
+KLRB1	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000111796	99
+MGAT4A	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000071073	99
+NFKBIA	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000100906	99
+NFKBIZ	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000144802	99
+PDE4D	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000113448	99
+PFKFB3	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000170525	99
+PPP1R15A	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000087074	99
+PTGER2	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000125384	99
+PTGER4	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000171522	99
+RORA	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000069667	99
+SPRY1	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000164056	99
+STAT4	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000138378	99
+SYTL3	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000164674	99
+TNFAIP3	resident_memory	MartinJC-31474370	T cell module: resident memory T cell	ENSG00000118503	99

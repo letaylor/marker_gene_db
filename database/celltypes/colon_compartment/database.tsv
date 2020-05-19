@@ -1,0 +1,26 @@
+hgnc_symbol	grouping_id	study_id	description	ensembl_gene_id	ensembl_version	biopsy_tissue	biopsy_cell_selection
+EPCAM	epithelial	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000119888	99	colon	
+KRT18	epithelial	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000111057	99	colon	
+KRT8	epithelial	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000170421	99	colon	
+CD14	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000170458	99	colon	
+FCGR3A	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies; originally CD16.	ENSG00000203747	99	colon	
+FCGR3B	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies; originally CD16.	ENSG00000162747	99	colon	
+CD2	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000116824	99	colon	
+CD3D	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000167286	99	colon	
+CD3E	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000198851	99	colon	
+CD3G	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000160654	99	colon	
+CD52	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000169442	99	colon	
+CD68	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000129226	99	colon	
+CD79A	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000105369	99	colon	
+CD79B	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000007312	99	colon	
+CD83	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000112149	99	colon	
+CSF1R	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000182578	99	colon	
+FCER1G	immune	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000158869	99	colon	
+CDH5	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000179776	99	colon	
+COL1A1	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000108821	99	colon	
+COL1A2	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000164692	99	colon	
+COL6A1	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000142156	99	colon	
+COL6A2	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000142173	99	colon	
+PLVAP	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000130300	99	colon	
+S100B	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000160307	99	colon	
+VWF	stromal	SmillieCS-31348891	Markers for major compartments/cell types from colon biopsies	ENSG00000110799	99	colon	

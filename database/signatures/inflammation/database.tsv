@@ -1,0 +1,243 @@
+"hgnc_symbol"	"grouping_id"	"study_id"	"description"	"ensembl_gene_id"	"ensembl_version"
+"ABCA1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000165029"	99
+"ABI1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136754"	99
+"ACVR1B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000135503"	99
+"ACVR2A"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000121989"	99
+"ADGRE1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000174837"	99
+"ADM"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000148926"	99
+"ADORA2B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000170425"	99
+"ADRM1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000130706"	99
+"AHR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000106546"	99
+"APLNR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000134817"	99
+"AQP9"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000103569"	99
+"ATP2A2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000174437"	99
+"ATP2B1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000070961"	99
+"ATP2C1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000017260"	99
+"AXL"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000167601"	99
+"BDKRB1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000100739"	99
+"BEST1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000167995"	99
+"BST2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000130303"	99
+"BTG2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000159388"	99
+"C3AR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000171860"	99
+"C5AR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000197405"	99
+"CALCRL"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000064989"	99
+"CCL17"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000102970"	99
+"CCL2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000108691"	99
+"CCL20"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000115009"	99
+"CCL22"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000102962"	99
+"CCL24"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000106178"	99
+"CCL5"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000271503"	99
+"CCL7"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000108688"	99
+"CCR7"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000126353"	99
+"CCRL2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000121797"	99
+"CD14"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000170458"	99
+"CD40"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000101017"	99
+"CD48"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000117091"	99
+"CD55"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000196352"	99
+"CD69"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000110848"	99
+"CD70"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000125726"	99
+"CD82"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000085117"	99
+"CDKN1A"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000124762"	99
+"CHST2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000175040"	99
+"CLEC5A"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000258227"	99
+"CMKLR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000174600"	99
+"CSF1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000184371"	99
+"CSF3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000108342"	99
+"CSF3R"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000119535"	99
+"CX3CL1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000006210"	99
+"CXCL10"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169245"	99
+"CXCL11"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169248"	99
+"CXCL6"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000124875"	99
+"CXCL8"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169429"	99
+"CXCL9"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000138755"	99
+"CXCR6"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000172215"	99
+"CYBB"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000165168"	99
+"DCBLD2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000057019"	99
+"EBI3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105246"	99
+"EDN1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000078401"	99
+"EIF2AK2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000055332"	99
+"EMP3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000142227"	99
+"EREG"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000124882"	99
+"F3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000117525"	99
+"FFAR2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000126262"	99
+"FPR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000171051"	99
+"FZD5"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000163251"	99
+"GABBR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000204681"	99
+"GCH1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000131979"	99
+"GNA15"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000060558"	99
+"GNAI3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000065135"	99
+"GP1BA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000185245"	99
+"GPC3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000147257"	99
+"GPR132"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000183484"	99
+"GPR183"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169508"	99
+"HAS2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000170961"	99
+"HBEGF"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000113070"	99
+"HIF1A"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000100644"	99
+"HPN"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105707"	99
+"HRH1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000196639"	99
+"ICAM1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000090339"	99
+"ICAM4"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105371"	99
+"ICOSLG"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000160223"	99
+"IFITM1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000185885"	99
+"IFNAR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000142166"	99
+"IFNGR2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000159128"	99
+"IL10"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136634"	99
+"IL10RA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000110324"	99
+"IL12B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000113302"	99
+"IL15"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000164136"	99
+"IL15RA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000134470"	99
+"IL18"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000150782"	99
+"IL18R1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000115604"	99
+"IL18RAP"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000115607"	99
+"IL1A"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000115008"	99
+"IL1B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000125538"	99
+"IL1R1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000115594"	99
+"IL2RB"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000100385"	99
+"IL4R"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000077238"	99
+"IL6"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136244"	99
+"IL7R"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000168685"	99
+"INHBA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000122641"	99
+"IRAK2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000134070"	99
+"IRF1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000125347"	99
+"IRF7"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000185507"	99
+"ITGA5"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000161638"	99
+"ITGB3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000259207"	99
+"ITGB8"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105855"	99
+"KCNA3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000177272"	99
+"KCNJ2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000123700"	99
+"KCNMB2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000197584"	99
+"KIF1B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000054523"	99
+"KLF6"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000067082"	99
+"LAMP3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000078081"	99
+"LCK"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000182866"	99
+"LCP2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000043462"	99
+"LDLR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000130164"	99
+"LIF"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000128342"	99
+"LPAR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000198121"	99
+"LTA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000226979"	99
+"LY6E"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000160932"	99
+"LYN"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000254087"	99
+"MARCO"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000019169"	99
+"MEFV"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000103313"	99
+"MEP1A"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000112818"	99
+"MET"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105976"	99
+"MMP14"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000157227"	99
+"MSR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000038945"	99
+"MXD1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000059728"	99
+"MYC"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136997"	99
+"NAMPT"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105835"	99
+"NDP"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000124479"	99
+"NFKB1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000109320"	99
+"NFKBIA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000100906"	99
+"NLRP3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000162711"	99
+"NMI"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000123609"	99
+"NMUR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000171596"	99
+"NOD2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000167207"	99
+"NPFFR2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000056291"	99
+"OLR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000173391"	99
+"OPRK1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000082556"	99
+"OSM"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000099985"	99
+"OSMR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000145623"	99
+"P2RX4"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000135124"	99
+"P2RX7"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000089041"	99
+"P2RY2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000175591"	99
+"PCDH7"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169851"	99
+"PDE4B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000184588"	99
+"PDPN"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000162493"	99
+"PIK3R5"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000141506"	99
+"PLAUR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000011422"	99
+"PROK2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000163421"	99
+"PSEN1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000080815"	99
+"PTAFR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169403"	99
+"PTGER2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000125384"	99
+"PTGER4"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000171522"	99
+"PTGIR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000160013"	99
+"PTPRE"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000132334"	99
+"PVR"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000073008"	99
+"RAF1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000132155"	99
+"RASGRP1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000172575"	99
+"RELA"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000173039"	99
+"RGS1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000090104"	99
+"RGS16"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000143333"	99
+"RHOG"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000177105"	99
+"RIPK2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000104312"	99
+"RNF144B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000137393"	99
+"ROS1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000047936"	99
+"RTP4"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136514"	99
+"SCARF1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000074660"	99
+"SCN1B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000105711"	99
+"SELE"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000007908"	99
+"SELENOS"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000131871"	99
+"SELL"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000188404"	99
+"SEMA4D"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000187764"	99
+"SERPINE1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000106366"	99
+"SGMS2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000164023"	99
+"SLAMF1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000117090"	99
+"SLC11A2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000110911"	99
+"SLC1A2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000110436"	99
+"SLC28A2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000137860"	99
+"SLC31A1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136868"	99
+"SLC31A2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000136867"	99
+"SLC4A4"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000080493"	99
+"SLC7A1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000139514"	99
+"SLC7A2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000003989"	99
+"SPHK1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000176170"	99
+"SRI"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000075142"	99
+"STAB1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000010327"	99
+"TACR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000115353"	99
+"TACR3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000169836"	99
+"TAPBP"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000231925"	99
+"TIMP1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000102265"	99
+"TLR1"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000174125"	99
+"TLR2"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000137462"	99
+"TLR3"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000164342"	99
+"TNFAIP6"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000123610"	99
+"TNFRSF1B"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000028137"	99
+"TNFRSF9"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000049249"	99
+"TNFSF10"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000121858"	99
+"TNFSF15"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000181634"	99
+"TNFSF9"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000125657"	99
+"TPBG"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000146242"	99
+"VIP"	"HALLMARK_INFLAMMATORY_RESPONSE"	"msigdb::M5932"	"Genes defining inflammatory response.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_INFLAMMATORY_RESPONSE.html"	"ENSG00000146469"	99
+"IFNG"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000111537"	99
+"IFNGR1"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000027697"	99
+"IFNGR2"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000159128"	99
+"IL10"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000136634"	99
+"IL12A"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000168811"	99
+"IL12B"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000113302"	99
+"IL12RB1"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000096996"	99
+"IL12RB2"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000081985"	99
+"IL13"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000169194"	99
+"IL17A"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000112115"	99
+"IL17F"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000112116"	99
+"IL18"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000150782"	99
+"IL18R1"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000115604"	99
+"IL18RAP"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000115607"	99
+"IL1A"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000115008"	99
+"IL1B"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000125538"	99
+"IL2"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000109471"	99
+"IL21"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000138684"	99
+"IL21R"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000103522"	99
+"IL22"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000127318"	99
+"IL23A"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000110944"	99
+"IL23R"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000162594"	99
+"IL2RG"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000147168"	99
+"IL4"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000113520"	99
+"IL4R"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000077238"	99
+"IL5"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000113525"	99
+"IL6"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000136244"	99
+"JUN"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000177606"	99
+"NFKB1"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000109320"	99
+"RELA"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000173039"	99
+"RORA"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000069667"	99
+"RORC"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000143365"	99
+"S100A8"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000143546"	99
+"S100A9"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000163220"	99
+"STAT1"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000115415"	99
+"STAT3"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000168610"	99
+"STAT4"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000138378"	99
+"STAT6"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000166888"	99
+"TGFB1"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000105329"	99
+"TGFB2"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000092969"	99
+"TGFB3"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000119699"	99
+"TNF"	"inflammation_signature__SmillieCS_31348891"	"SmillieCS-31348891"	"Inflammation gene signature used in SmillieCS-31348891"	"ENSG00000232810"	99

@@ -1,0 +1,124 @@
+"hgnc_symbol"	"grouping_id"	"study_id"	"description"	"ensembl_gene_id"	"ensembl_version"
+"ABCC8"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000006071"	99
+"GIPR"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000010310"	99
+"GJD2"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000159248"	99
+"GLP1R"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000112164"	99
+"INS"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000254647"	99
+"KCNJ11"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000187486"	99
+"NEUROD1"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000162992"	99
+"NKX6-1"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000163623"	99
+"PAX6"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000007372"	99
+"PCSK1"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000175426"	99
+"PCSK2"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000125851"	99
+"PDX1"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000139515"	99
+"RFX6"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000185002"	99
+"SLC2A2"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000163581"	99
+"SLC30A8"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000164756"	99
+"TCF7L2"	"beta_cell_identity"	"RutterGA-25697093"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000148737"	99
+"BMP5"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000112175"	99
+"HOPX"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000171476"	99
+"IAPP"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000121351"	99
+"MAFA"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000182759"	99
+"MAFB"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000204103"	99
+"NEFM"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000104722"	99
+"SIX2"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000170577"	99
+"SIX3"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000138083"	99
+"UCN3"	"beta_cell_maturation"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000178473"	99
+"CDC42"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000070831"	99
+"INS"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000254647"	99
+"SLC17A6"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000091664"	99
+"SNAP25"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000132639"	99
+"STX1A"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000106089"	99
+"STX1B"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000099365"	99
+"STX4"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000103496"	99
+"STXBP1"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000136854"	99
+"VAMP2"	"exocytosis"	"AslamyA-28356294"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000220205"	99
+"ABCC8"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000006071"	99
+"GCK"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000106633"	99
+"KCNJ11"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000187486"	99
+"LDHA"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000134333"	99
+"SLC16A1"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000155380"	99
+"SLC2A1"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000117394"	99
+"SLC2A2"	"glucose_sensing"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000163581"	99
+"ABCC8"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000006071"	99
+"AKT3"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000117020"	99
+"CHGA"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000100604"	99
+"DCX"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000077279"	99
+"DPP4"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000197635"	99
+"ELP4"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000109911"	99
+"FOXA2"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000125798"	99
+"FOXO1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000150907"	99
+"G6PC2"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000152254"	99
+"GCG"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000115263"	99
+"GCK"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000106633"	99
+"HNF1A"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000135100"	99
+"IAPP"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000121351"	99
+"INS"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000254647"	99
+"INSM1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000173404"	99
+"ISL1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000016082"	99
+"LMO2"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000135363"	99
+"MAFB"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000204103"	99
+"NEUROD1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000162992"	99
+"NEUROG3"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000122859"	99
+"NKX2-2"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000125820"	99
+"NKX6-1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000163623"	99
+"PAK3"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000077264"	99
+"PAX4"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000106331"	99
+"PAX6"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000007372"	99
+"PCSK1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000175426"	99
+"PCSK2"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000125851"	99
+"PDX1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000139515"	99
+"PKLR"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000143627"	99
+"SCGN"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000079689"	99
+"SEC11A"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000140612"	99
+"SLC2A2"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000163581"	99
+"SPCS1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000114902"	99
+"SRP14"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000140319"	99
+"SRP9"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000143742"	99
+"SRPRB"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000144867"	99
+"SST"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000157005"	99
+"STXBP1"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000136854"	99
+"SYT13"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000019505"	99
+"VDR"	"HALLMARK_PANCREAS_BETA_CELLS"	"msigdb::M5957"	"Genes specifically up-regulated in pancreatic beta cells.,http://software.broadinstitute.org/gsea/msigdb/cards/HALLMARK_PANCREAS_BETA_CELLS.html"	"ENSG00000111424"	99
+"ABCC8"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000006071"	99
+"ADCYAP1"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000141433"	99
+"CHGA"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000100604"	99
+"CHGB"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000089199"	99
+"CLCN3"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000109572"	99
+"CPE"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000109472"	99
+"IAPP"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000121351"	99
+"IGF2"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000167244"	99
+"KCNJ11"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000187486"	99
+"MIF"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000240972"	99
+"NUCB2"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000070081"	99
+"PAM"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000145730"	99
+"PCSK1"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000175426"	99
+"PCSK2"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000125851"	99
+"PDIA3"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000167004"	99
+"PTPRN"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000054356"	99
+"PTPRN2"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000155093"	99
+"RAB1A"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000138069"	99
+"RAB27A"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000069974"	99
+"RAB2A"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000104388"	99
+"RAB3A"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000105649"	99
+"RAP1GDS1"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000138698"	99
+"SCG2"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000171951"	99
+"SCG3"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000104112"	99
+"SCG5"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000166922"	99
+"SLC30A8"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000164756"	99
+"VGF"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000128564"	99
+"YWHAZ"	"metabolic_sensing_and_signalling"	"ThurmondDC-9780387722047"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000164924"	99
+"ABCC8"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000006071"	99
+"APPL1"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000157500"	99
+"BLK"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000136573"	99
+"CEL"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000170835"	99
+"GCK"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000106633"	99
+"HNF1A"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000135100"	99
+"HNF1B"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000275410"	99
+"HNF4A"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000101076"	99
+"INS"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000254647"	99
+"KCNJ11"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000187486"	99
+"KLF11"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000172059"	99
+"NEUROD1"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000162992"	99
+"PAX4"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000106331"	99
+"PDX1"	"MODY_OMIM"	"VeresA-31068696"	"Extended Data Figure 3, VeresA-31068696"	"ENSG00000139515"	99

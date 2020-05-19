@@ -1,0 +1,16 @@
+hgnc_symbol	grouping_id	study_id	description	ensembl_gene_id	ensembl_version	biopsy_tissue	biopsy_cell_selection	notes
+CD177	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000204936	99	colon	epithelial
+CEACAM1	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000079385	99	colon	epithelial
+CEACAM5	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000105388	99	colon	epithelial
+CEACAM6	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000086548	99	colon	epithelial
+CEACAM7	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000007306	99	colon	epithelial
+DHRS9	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000073737	99	colon	epithelial
+HPGD	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000164120	99	colon	epithelial
+IFI27	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000165949	99	colon	epithelial
+KRT20	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000171431	99	colon	epithelial
+LYPD8	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000259823	99	colon	epithelial
+PKIB	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000135549	99	colon	epithelial
+PLAC8	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000145287	99	colon	epithelial	
+RHOC	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000155366	99	colon	epithelial
+SELENOP	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000250722	99	colon	epithelial	SELENOP (aka SEPP1)
+TSPAN1	axis_score	ParikhK-30814735	Crypt axis score from ParikhK-30814735	ENSG00000117472	99	colon	epithelial
